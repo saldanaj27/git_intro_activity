@@ -13,7 +13,7 @@ Rating: 3
 
 Commit early, commit often. A tip for version controlling - not for relationships
 
-Rating: 7
+Rating: 2
 
 ---
 
